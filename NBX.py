@@ -1,2 +1,2 @@
-from NEON import NBX
-NBX.Main()
+from NBX import Main 
+Main.Menu()
