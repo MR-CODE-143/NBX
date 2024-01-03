@@ -1,8 +1,8 @@
 # Installation 
 ```
-rm -rf NBX-PRO
-git clone https://github.com/NBX-WORLD/NBX-PRO
-cd NBX-PRO
+rm -rf NBX
+git clone https://github.com/NBX-WORLD/NBX
+cd NBX
 python NBX.py
 ```
 # Status 
